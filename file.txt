@@ -1,0 +1,6 @@
+git commit -a -->
+Пишем описание коммита -->
+ESC -->
+SHIFT + : -->
+WQ -->
+ENTER
